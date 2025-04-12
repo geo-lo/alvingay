@@ -1,0 +1,25 @@
+body{
+    color: black;
+    justify-content: center;
+    text-align: center;
+    padding: 220px;
+}
+.gay{
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transition: all ease 0.5s;
+}
+.gay:hover{
+    background-color: black;
+    color: white;
+    transform: scale(1.5);
+}
+p{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    font-size: x-large;
+}
